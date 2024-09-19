@@ -1,9 +1,9 @@
 {
-  "prefix": "#",
-  "redirectUri": "http://localhost:3001/backend/user/callback",
-  "clientId": "817541222251626497",
-  "db": "mongo",
-  "port": 3001,
+  "prefix": "+",
+  "redirectUri": "https://de1.bot-hosting.net:20213/callback",
+  "clientId": "1285928692689928264",
+  "db": "mongodb+srv://Maker:maker1212@cluster0.5thxqyy.mongodb.net/?retryWrites=true&w=majority",
+  "port": 20213,
   "CORS": true,
   "logTraffic": true,
   "rateLimiter": true
